@@ -5,7 +5,7 @@
   
   .image0 {
     height:900px;
-    width: 121%;
+    width: 100%;
  
     margin-left:-100px;
     margin-right:-100px;
@@ -43,7 +43,7 @@
   }
   .image1 {
     height:450px;
-    width: 121%;
+    width: 100%;
     filter: brightness(85%);
     margin-right:-100px;
     margin-left: 10px;
